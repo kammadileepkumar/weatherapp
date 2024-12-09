@@ -72,6 +72,7 @@ export default function WeatherApp() {
         setimagechange(
           'https://img.freepik.com/free-vector/monsoon-rainfall-with-clouds-background_1017-32365.jpg?ga=GA1.1.200709813.1732007863&semt=ais_hybrid'
         );
+        <h6></h6>
         break;
       case 'snow':
         setimagechange(
